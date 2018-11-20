@@ -6,6 +6,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('NAV Techdays Rules of Thomas Error');
+        Message('NAV Techdays Rules of Thomas are awesome 2');
     end;
 }

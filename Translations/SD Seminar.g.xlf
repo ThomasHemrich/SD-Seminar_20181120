@@ -3,6 +3,11 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="SD Seminar">
     <body>
       <group id="body">
+        <trans-unit id="PageExtension 455764897 - Control 2205917413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Room</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CSD Resource Extension - Control CSD Room - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 455764897 - Change 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
           <source>Instructor,Room</source>
           <note from="Developer" annotates="general" priority="2"></note>

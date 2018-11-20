@@ -1,4 +1,5 @@
 tableextension 50100 "CSD Resource Extension" extends Resource
+// CSD1.00 - 2018-11-20 - Thomas Hemrich
 {
     fields
     {

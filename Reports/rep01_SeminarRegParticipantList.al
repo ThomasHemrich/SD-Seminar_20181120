@@ -28,7 +28,7 @@ report 50101 "CSD SeminarRegParticipantList"
             {
                 IncludeCaption = true;
             }
-            column(Duration_; "Duration")
+            column(Duration; "Duration")
             {
                 IncludeCaption = true;
             }

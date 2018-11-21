@@ -1203,14 +1203,14 @@
       </DefaultValue>
       <Prompt>Starting_DateCaption</Prompt>
     </ReportParameter>
-    <ReportParameter Name="Duration_Caption">
+    <ReportParameter Name="DurationCaption">
       <DataType>String</DataType>
       <DefaultValue>
         <Values>
-          <Value>Duration_Caption</Value>
+          <Value>DurationCaption</Value>
         </Values>
       </DefaultValue>
-      <Prompt>Duration_Caption</Prompt>
+      <Prompt>DurationCaption</Prompt>
     </ReportParameter>
     <ReportParameter Name="Instructor_NameCaption">
       <DataType>String</DataType>
@@ -1291,7 +1291,7 @@
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>5</RowIndex>
-          <ParameterName>Duration_Caption</ParameterName>
+          <ParameterName>DurationCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
@@ -1375,11 +1375,11 @@ End Function
         <Field Name="Starting_Date">
           <DataField>Starting_Date</DataField>
         </Field>
-        <Field Name="Duration_">
-          <DataField>Duration_</DataField>
+        <Field Name="Duration">
+          <DataField>Duration</DataField>
         </Field>
-        <Field Name="Duration_Format">
-          <DataField>Duration_Format</DataField>
+        <Field Name="DurationFormat">
+          <DataField>DurationFormat</DataField>
         </Field>
         <Field Name="Instructor_Name">
           <DataField>Instructor_Name</DataField>

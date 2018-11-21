@@ -1,12 +1,6 @@
 table 50110 "CSD Seminar Reg. Header"
+// CSD1.00 - 2018-11-20 - Thomas Hemrich
 {
-    // CSD1.00 - 2018-01-01 - D. E. Veloper
-    //   Chapter 6 - Lab 1-3 & Lab 1-4
-    //     - Created new table
-    //   Chapter 8 - Lab 2-3
-    //     - Added LookupId and DrillDownPageId
-    //   Chapter 9 - Lab 1-1
-    //     - Added Field "No. Printed"
     Caption = 'Seminar Registration Header';
     //LookupPageId= "CSD Posted Seminar Reg. List";
     //DrillDownPageId= "CSD Posted Seminar Reg. List";

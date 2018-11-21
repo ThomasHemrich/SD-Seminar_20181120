@@ -327,6 +327,7 @@ table 50110 "CSD Seminar Reg. Header"
         SeminarRegLine.Reset;
         SeminarRegLine.SetRange("Document No.", "No.");
         SeminarRegLine.SetRange(Registered, true);
+        //if NOT SeminarRegLine.IsEmpty then
         if SeminarRegLine.Find('-') then
             ERROR(
             Text001,

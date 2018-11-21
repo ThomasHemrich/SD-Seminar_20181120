@@ -1,8 +1,5 @@
 page 50102 "CSD Seminar List"
-// CSD1.00 - 2018-01-01 - D. E. Veloper
-// Chapter 5 - Lab 3-6
-// Chapter 8 - Lab 1-2
-// - Added Action
+// CSD1.00 - 2018-11-20 - Thomas Hemrich
 {
     Caption = 'Seminar List';
     PageType = List;
